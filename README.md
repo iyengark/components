@@ -16,3 +16,5 @@ https://github.com/Mujib517/angular-component-demo
 https://www.youtube.com/watch?v=UzGs_T8IHxw&list=PLJvlF1Rakz9c3p8BrxxKIahtJ7EHq4njs#t=45.788209
 
 https://m.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
+
+https://docs.google.com/document/d/1vl8_mA7rBSTVnPUMDiPpM37OPeM81SypKVvbBSuISgw/mobilebasic

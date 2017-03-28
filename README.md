@@ -18,3 +18,5 @@ https://www.youtube.com/watch?v=UzGs_T8IHxw&list=PLJvlF1Rakz9c3p8BrxxKIahtJ7EHq4
 https://m.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ
 
 https://docs.google.com/document/d/1vl8_mA7rBSTVnPUMDiPpM37OPeM81SypKVvbBSuISgw/mobilebasic
+
+https://juristr.com/blog/2016/06/from-ngcontroller-to-components/

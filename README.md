@@ -22,3 +22,5 @@ https://docs.google.com/document/d/1vl8_mA7rBSTVnPUMDiPpM37OPeM81SypKVvbBSuISgw/
 https://vimeo.com/167970496   (presentation that goes with above doc)
 
 https://juristr.com/blog/2016/06/from-ngcontroller-to-components/
+
+https://github.com/excellalabs/the-javascript-curriculum
